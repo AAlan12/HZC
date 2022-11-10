@@ -21,4 +21,4 @@ Porjeto de site de comunidade de skatistas
 
 - HTML5
 - CSS
-- javascript
+- Javascript
